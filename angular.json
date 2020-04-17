@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PckbkFrontend"
+    }
+  },
+  "defaultProject": "PckbkFrontend",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -1,0 +1,21 @@
+
+.houseTile {
+    min-height: 15vh;
+    width: 200px;
+    border-radius: 5px;
+    justify-content: space-around;
+    background-color: #92A332;
+    margin: 1%;
+    padding: 10px;
+  }
+
+  .imgContainer img{
+    height: 80px;
+  }
+
+  .houses {
+      margin: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #56642a;
+  }
